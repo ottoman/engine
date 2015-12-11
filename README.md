@@ -2,6 +2,8 @@
 
 # A Whiteboard-esque Expression Language
 
+<img src="https://raw.github.com/ottoman/engine/master/whiteboard.png" align="right">
+
 This is an experimental parser and evaluator for a basic expression language meant to handle expressions as you would scribble them down on a whiteboard or a piece of paper. You can think of it as Spreadsheet formulaes with the additional ability to define Functions.
 
 ## The Language
